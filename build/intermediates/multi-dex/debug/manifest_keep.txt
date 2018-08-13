@@ -1,0 +1,3 @@
+# Referenced at /Users/shivendra/Documents/Android Projects/Whatsapp-clone/BetaMessage/build/intermediates/manifests/full/debug/AndroidManifest.xml:24
+-keep class com.parse.clone.StarterApplication { <init>(...); }
+
